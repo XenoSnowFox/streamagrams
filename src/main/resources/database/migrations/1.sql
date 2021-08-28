@@ -1,0 +1,4 @@
+CREATE TABLE `Settings` (
+    `SETTING` VARCHAR(50) PRIMARY KEY
+    , `VALUE` TEXT
+);

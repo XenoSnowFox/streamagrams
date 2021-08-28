@@ -1,5 +1,9 @@
 .gradle
+.idea
 /build/
+/data/
+/src/main/java/scratch
+/src/test/java/scratch
 
 # Ignore Gradle GUI config
 gradle-app.setting

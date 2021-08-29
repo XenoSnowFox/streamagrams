@@ -1,4 +1,4 @@
-package com.xenosnowfox.streamagrams.persistance;
+package com.xenosnowfox.streamagrams.persistence;
 
 import com.xenosnowfox.streamagrams.utils.ResourceUtils;
 import org.apache.commons.dbutils.QueryRunner;
